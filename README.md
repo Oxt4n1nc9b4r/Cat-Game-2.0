@@ -21,3 +21,4 @@ git clone  https://github.com/Oxt4n1nc9b4r/Cat-Game-2.0
 cd Cat-Game-2.0
 ```
 python Cat.py
+```
